@@ -1,6 +1,6 @@
 print ("Sherpa Terminal Emulator Version 0.1")
 print ("___________________")
-print ("| 		            |")
+print ("| 		   |")
 print ("| //              |")
 print ("|  //             |")
 print ("|   //            |")
