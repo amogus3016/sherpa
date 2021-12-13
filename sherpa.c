@@ -1,3 +1,7 @@
+// Sherpa Terminal Emulator //
+// This program is licensed under the GNU GPL 3.0, which provides absolutely NO WARRANTY //
+// (c) 2021 Everest Developers //
+
 #include <vte/vte.h>
 
 static void
