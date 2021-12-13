@@ -51,8 +51,8 @@ main(int argc, char *argv[])
 
 void
 vte_terminal_set_size (VteTerminal *terminal,
-		       glong "40"
-		       glong "40"); // Set the window size to 40 columns x 40 rows //
+		       glong (40)
+		       glong (40)); // Set the window size to 40 columns x 40 rows //
 void
 vte_terminal_set_font_scale (VteTerminal *terminal,
-			     gdouble "14"); // Set the font size to 14 //
+			     gdouble (14)); // Set the font size to 14 //
