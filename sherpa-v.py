@@ -1,4 +1,4 @@
-print ("Sherpa Terminal Emulator Version 0.1")
+print ("Sherpa Terminal Emulator Version 0.1 - (c) 2021 Everest Developers - Licensed under the GNU GPL v3.0")
 print ("___________________")
 print ("| 		  |")
 print ("| //              |")
