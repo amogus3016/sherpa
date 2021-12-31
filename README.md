@@ -6,4 +6,8 @@ Sherpa is a lightweight terminal for unix-like operating systems. Developed for 
 
 **Installation**
 
-Run: `gcc -02 -Wall $(pkg-config --cflags vte-2.91) sherpa.c -o term $(pkg-config --libs vte-2.91`
+Download one of the precompiled binaries on the releases page
+
+**OR**
+
+Clone this reository to any directory (EXCEPT /tmp), then run: `gcc -02 -Wall $(pkg-config --cflags vte-2.91) sherpa.c -o sherpa $(pkg-config --libs vte-2.91`
