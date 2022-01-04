@@ -10,7 +10,7 @@ Download one of the precompiled binaries on the releases page
 
 **OR**
 
-Clone this reository to any directory (EXCEPT /tmp), then run: `gcc -02 -Wall $(pkg-config --cflags vte-2.91) sherpa.c -o sherpa $(pkg-config --libs vte-2.91`
+Clone this reository to any directory (EXCEPT /tmp), then run: `gcc -O2 -Wall $(pkg-config --cflags vte-2.91) sherpa.c -o sherpa $(pkg-config --libs vte-2.91)`
 
 **Notes**
 
