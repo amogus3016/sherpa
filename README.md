@@ -4,7 +4,7 @@
 
 The simplest terminal around
 
-Sherpa is a lightweight terminal for unix-like operating systems. Developed for Everest Linux.
+Sherpa is a lightweight terminal for unix-like operating systems. Developed for Everest Linux. Provides a strong baseline for customization.
 
 **Installation**
 
@@ -17,5 +17,3 @@ Clone this reository to any directory (EXCEPT /tmp), then run: `gcc -O2 -Wall $(
 **Notes**
 
 At the moment, sherpa only runs on GTK based desktop environments. Expect a Qt version in the near future.
-
-If the makefile warns of a missing vte.h, ignore
