@@ -5,4 +5,3 @@
 echo "Compiling Sherpa..."
 gcc -O2 -Wall $(pkg-config --cflags vte-2.91) sherpa.c -o Sherpa $(pkg-config --libs vte-2.91) # Compile main Sherpa binary
 echo "CC sherpa.c"
-mv sherpa /usr/bin
