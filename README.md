@@ -8,27 +8,33 @@ Sherpa is a lightweight terminal for Linux. Developed for Everest Linux. Provide
 
 **Installing**
 
-Clone the repository to /tmp
+Clone the repository to /tmp `cd /tmp && git clone https://github.com/everest-linux/sherpa`
 
-Change directory into the sherpa folder
+Change directory into the sherpa folder `cd sherpa`
 
-Run INSTALL.sh as root
+Mark INSTALL.sh as executable `chmod +x INSTALL.sh`
+
+Run INSTALL.sh as root `sudo ./INSTALL.sh`
 
 **Updating**
 
-Clone the repository to /tmp
+Clone the repository to /tmp `cd /tmp && git clone https://github.com/everest-linux/sherpa`
 
-Change directory into the sherpa folder
+Change directory into the sherpa folder `cd sherpa`
 
-Run UPDATE.sh as root
+Mark UPDATE.sh as executable `chmod +x UPDATE.sh`
+
+Run UPDATE.sh as root `sudo ./UPDATE.sh`
 
 **Uninstalling**
 
-Clone the repository to /tmp
+Clone the repository to /tmp `cd /tmp && git clone https://github.com/everest-linux/sherpa`
 
-directory into the sherpa folder
+directory into the sherpa folder `cd sherpa`
 
-Run UNINSTALL.sh as root
+Mark UNINSTALL.sh as executable `chmod +x UNINSTALL.sh`
+
+Run UNINSTALL.sh as root `sudo ./UNINSTALL.sh`
 
 **Features**
 
