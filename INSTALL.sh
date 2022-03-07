@@ -9,8 +9,8 @@ mv sherpa /usr/bin
 echo "Sherpa was successfully installed."
 echo "To update Sherpa, run the UPDATE.sh script."
 
-//
-  //
-   //
-  //
- //
+# //
+#   //
+#    //
+#   //
+#  //
