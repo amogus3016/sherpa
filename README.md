@@ -6,13 +6,29 @@ The simplest terminal around
 
 Sherpa is a lightweight terminal for Linux. Developed for Everest Linux. Provides a strong baseline for customization.
 
-**Installation**
+**Installing**
 
-Download one of the precompiled binaries on the releases page
+Clone the repository to /tmp
 
-**OR**
+Change directory into the sherpa folder
 
-Clone this reository to /tmp, then run: `gcc -O2 -Wall $(pkg-config --cflags vte-2.91) sherpa.c -o sherpa $(pkg-config --libs vte-2.91)` to compile the main executable. Run `gcc -O2 -Wall sherpa-version.c` to compile the version script (optional), then move the executable to /usr/bin by running: `sudo mv /path/to/executable /usr/bin`. Do the same with the version script (you must rename it first)
+Run INSTALL.sh as root
+
+**Updating**
+
+Clone the repository to /tmp
+
+Change directory into the sherpa folder
+
+Run UPDATE.sh as root
+
+**Uninstalling**
+
+Clone the repository to /tmp
+
+directory into the sherpa folder
+
+Run UNINSTALL.sh as root
 
 **Features**
 
