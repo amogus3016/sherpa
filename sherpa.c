@@ -1,13 +1,13 @@
 // Sherpa Terminal Emulator //
 // This program is licensed under the GNU GPL 3.0, which provides absolutely NO WARRANTY //
-__________________
-|		 |
-| //		 |
-|  //		 |
-|   //		 |
-|  //		 |
-| //		 |
-|________________|
+//	__________________	//
+//	|		 |	//
+//	| //		 |	//
+//	|  //		 |	//
+//	|   //		 |	//
+//	|  //		 |	//
+//	| //		 |	//
+//	|________________|	//
 	
 #include <vte/vte.h>
 
