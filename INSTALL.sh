@@ -6,9 +6,10 @@ echo "Compiling Sherpa..."
 gcc -O2 -Wall $(pkg-config --cflags vte-2.91) sherpa.c -o sherpa $(pkg-config --libs vte-2.91) # Compile main Sherpa binary
 echo "CC sherpa.c"
 mv sherpa /usr/bin
-echo "Sherpa was successfully installed."
-echo "To update Sherpa, run the UPDATE.sh script."
-
+echo "+----------------------------------------------+"
+echo "| Sherpa was successfully installed.           |"
+echo "| To update Sherpa, run the UPDATE.sh script.  |"
+echo "+----------------------------------------------+"
 # //
 #   //
 #    //
