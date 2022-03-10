@@ -8,6 +8,10 @@ Sherpa is a lightweight terminal for Linux. Developed for Everest Linux. Provide
 
 **Installing**
 
+Sherpa is available in the official Glacier repository. To install, run `glacier-install` and enter `sherpa` when prompted.
+
+If you wish to compile yourself, follow the steps below:
+
 Clone the repository to /tmp `cd /tmp && git clone https://github.com/everest-linux/sherpa`
 
 Change directory into the sherpa folder `cd sherpa`
@@ -18,6 +22,10 @@ Run INSTALL.sh as root `sudo ./INSTALL.sh`
 
 **Updating**
 
+Sherpa is available in the official Glacier repository. To update, run `glacier-update` and enter `sherpa` when prompted.
+
+If you wish to update manually, follow the steps below:
+
 Clone the repository to /tmp `cd /tmp && git clone https://github.com/everest-linux/sherpa`
 
 Change directory into the sherpa folder `cd sherpa`
@@ -27,6 +35,10 @@ Mark UPDATE.sh as executable `chmod +x UPDATE.sh`
 Run UPDATE.sh as root `sudo ./UPDATE.sh`
 
 **Uninstalling**
+
+Sherpa is available in the official Glacier repository. To remove, run `glacier-remove` and enter `sherpa` when prompted.
+
+If you wish to uninstall manually, follow the steps below:
 
 Clone the repository to /tmp `cd /tmp && git clone https://github.com/everest-linux/sherpa`
 
@@ -42,7 +54,7 @@ Lightweight terminal emulator out of the box
 
 Strong base to customize
 
-Less lines of code than most terminal emulators (including st)
+Utilizes powerful VTE library
 
 **Notes**
 
