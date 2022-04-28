@@ -58,4 +58,4 @@ Utilizes powerful VTE library
 
 **Notes**
 
-Runs on any GTK capable system. This includes KDE Plasma.
+pywal is recommended for easy customization.
